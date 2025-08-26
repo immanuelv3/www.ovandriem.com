@@ -83,6 +83,11 @@ document.writeln('<a href="/xxxxx.html">magie des brotbackens</a>');
 document.writeln('</div>');
 document.writeln('</div>');
 // 
+// culinary dropdown
+document.writeln('<div class="dropdown">');
+document.writeln('<button class="dropbtn" onclick="location.href=\'kulinarischecht.html\'">Culinary</button>');
+document.writeln('</div>');
+
 // log
 document.writeln('<div class="dropdown">');
 document.writeln('<button class="dropbtn" onclick="location.href=\'/log.html\'">log</button>');
