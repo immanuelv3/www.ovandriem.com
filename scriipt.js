@@ -85,7 +85,7 @@ document.writeln('</div>');
 // 
 // culinary dropdown
 document.writeln('<div class="dropdown">');
-document.writeln('<button class="dropbtn" onclick="location.href=\'kulinarischecht.html\'">Culinary</button>');
+document.writeln('<button class="dropbtn" onclick="location.href=\'/kulinarik/rezepte.html\'">Culinary</button>');
 document.writeln('</div>');
 
 // log
