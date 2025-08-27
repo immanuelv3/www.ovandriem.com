@@ -8,6 +8,45 @@
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 
+<style>
+body {
+    background-color: #ebe5e5;
+    margin: 0;
+    padding: 0;
+}
+
+.hero-section {
+    position: relative;
+    width: 100vw;
+    height: 88vh;
+    overflow: hidden;
+}
+
+.hero-image {
+    
+    object-fit: cover;
+    padding-left: 2em;
+    margin-top: 1em;
+}
+
+.hero-content {
+    position: absolute;
+    top: 22%;
+    left: 22%;
+    transform: translate(-50%, -50%);
+    text-align: center;
+   
+}
+hr {
+  
+    width: 431px;        /* Make line longer */
+    height: 1px;         /* Make it thicker too */
+    background-color: #333;
+    border: none;        /* Remove default border */
+    margin: 80px 0px 20px auto;   /* Push to right: top right bottom left */
+    
+}
+</style>
 
 </head>                                                               
 <body>
@@ -15,18 +54,17 @@
 <div class="topnav">
 <script src="scriipt.js"></script>
 </div>
-<div style="padding: 33px;"> 
-  <br>
-    <div> 
-      <hr>
-    <h1> Welcome to my homepage! </h1>
-    <pre style="padding-left: 20px; font-style: italic; font-size: large;">- Immanuel Orfeo van Driem</pre>
+
+<div class="hero-section">
+    <img src="pics/schlierberg.png" alt="Schlierberg" class="hero-image">
+    <div class="hero-content">
+       
+      <h1> Welcome to my homepage! </h1>
+      <pre style="padding-left: 20px; font-style: italic; font-size: large;">- Immanuel Orfeo van Driem</pre>
+    </div>
+</div>
 
 
-
-
-
-    
 <?php
 
 $con = mysqli_connect('localhost', 'root', 'root', 'myDB');
@@ -34,23 +72,6 @@ $db=mysqli_select_db($con, 'myDB');
 
 
 ?>
-
-    <br>
-
- 
-
-
 </div>
-
-<br><br>
-  
-  <p>
-  
-</p>
-</div>
-<div style="padding-left: 14px;"> 
-</div>
-
-
 </body>
 </html>
