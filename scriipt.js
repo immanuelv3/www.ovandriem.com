@@ -107,7 +107,7 @@ document.writeln('</div>');
 //blog
 document.writeln('<div class="dropdown">');
 
-document.writeln('<button class="dropbtn" onclick="location.href=\'/blogreal.html\'">blog</button>');
+document.writeln('<button class="dropbtn" onclick="location.href=\'/blog-.html\'">blog</button>');
 document.writeln('</div>');
 
 //contact
