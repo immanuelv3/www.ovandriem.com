@@ -49,18 +49,18 @@ document.writeln('</div>');
 // Music dropdown
 document.writeln('<div class="dropdown">');
 document.writeln('<button class="dropbtn" onclick="location.href=\'/music.html\'">music</button>');
-/* document.writeln('<div class="dropdown-content">');
-document.writeln('<a href="">freiburg</a>');
-document.writeln('</div>'); */
+document.writeln('<div class="dropdown-content">');
+document.writeln('<a href="">musical theory</a>');
+document.writeln('</div>');
 document.writeln('</div>');
 
-// sm dropdown
+/* // sm dropdown
 document.writeln('<div class="dropdown">');
 document.writeln('<button class="dropbtn" onclick="location.href=\'/mysocialmedia.html\'">my social media</button>');
 document.writeln('<div class="dropdown-content">');
-/* document.writeln('<a href="">none</a>');*/
+/* document.writeln('<a href="">none</a>');
 document.writeln('</div>'); 
-document.writeln('</div>');
+document.writeln('</div>'); */
 
 // personal links dropdown
 document.writeln('<div class="dropdown">');
@@ -78,7 +78,7 @@ document.writeln('<a href="/kulinarik/brotbacken.html">Do´s & Dont´s</a>');
 document.writeln('<a href="/kulinarik/brotbacku.html">brotbackzubehör</a>');
 document.writeln('<a href="/kulinarik/brotrezepte1.html">Rezepte</a>');
 document.writeln('<a href="/kulinarik/sweetbaking.html">Sweet baking</a>');
-document.writeln('<a href="/xxxxx.html">magie des brotbackens</a>');
+// document.writeln('<a href="/xxxxx.html">magie des brotbackens</a>');
 // document.writeln('(on baking bread...)');
 document.writeln('</div>');
 document.writeln('</div>');
