@@ -99,7 +99,7 @@ document.writeln('</div>');
 
 // log
 document.writeln('<div class="dropdown">');
-document.writeln('<button class="dropbtn" onclick="location.href=\'/log.html\'">log</button>');
+document.writeln('<button class="dropbtn" onclick="location.href=\'/log.html\'">notes</button>');
 /* document.writeln('<div class="dropdown-content">');
  document.writeln('<a href="aboutlog.html">about log</a>');
 document.writeln('</div>'); */
