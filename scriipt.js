@@ -62,13 +62,6 @@ document.writeln('<div class="dropdown-content">');
 document.writeln('</div>'); 
 document.writeln('</div>'); */
 
-// personal links dropdown
-document.writeln('<div class="dropdown">');
-document.writeln('<button class="dropbtn" onclick="location.href=\'/personallinks.html\'">personal links</button>');
-/*document.writeln('<div class="dropdown-content">');
-document.writeln('<a href="">-</a>');
-document.writeln('</div>');*/
-document.writeln('</div>');
 
 // baking dropdown
 document.writeln('<div class="dropdown">');
@@ -88,13 +81,7 @@ document.writeln('<div class="dropdown">');
 document.writeln('<button class="dropbtn" onclick="location.href=\'/kulinarik/rezepte.html\'">Culinary</button>');
 document.writeln('</div>');
 
-// log
-document.writeln('<div class="dropdown">');
-document.writeln('<button class="dropbtn" onclick="location.href=\'/log.html\'">log</button>');
-/* document.writeln('<div class="dropdown-content">');
- document.writeln('<a href="aboutlog.html">about log</a>');
-document.writeln('</div>'); */
-document.writeln('</div>');
+
 
 // grammatik
 document.writeln('<div class="dropdown">');
@@ -108,6 +95,22 @@ document.writeln('</div>');
 document.writeln('<div class="dropdown">');
 
 document.writeln('<button class="dropbtn" onclick="location.href=\'/blog-.html\'">blog</button>');
+document.writeln('</div>');
+
+// log
+document.writeln('<div class="dropdown">');
+document.writeln('<button class="dropbtn" onclick="location.href=\'/log.html\'">log</button>');
+/* document.writeln('<div class="dropdown-content">');
+ document.writeln('<a href="aboutlog.html">about log</a>');
+document.writeln('</div>'); */
+document.writeln('</div>');
+
+// personal links dropdown
+document.writeln('<div class="dropdown">');
+document.writeln('<button class="dropbtn" onclick="location.href=\'/personallinks.html\'">personal links</button>');
+/*document.writeln('<div class="dropdown-content">');
+document.writeln('<a href="">-</a>');
+document.writeln('</div>');*/
 document.writeln('</div>');
 
 //contact
