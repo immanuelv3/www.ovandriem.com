@@ -9,13 +9,13 @@ document.writeln('</div>');
 // About me dropdown
 document.writeln('<div class="dropdown">');
 document.writeln('<button class="dropbtn" onclick="location.href=\'/whoiam.html\'">about me</button>');
-/*document.writeln('<div class="dropdown-content">');
-document.writeln('<a href="https://google.de">google</a>');
 document.writeln('<div class="dropdown-content">');
+document.writeln('<a href="personal.html">personal</a>');
+/*document.writeln('<div class="dropdown-content">');
 document.writeln('<a href="https://yahoo.de">yahoo</a>');
 
-document.writeln('</div>');
 document.writeln('</div>');*/
+document.writeln('</div>');
 document.writeln('</div>');
 
 // med dropdown
@@ -112,6 +112,12 @@ document.writeln('<button class="dropbtn" onclick="location.href=\'/personallink
 document.writeln('<a href="">-</a>');
 document.writeln('</div>');*/
 document.writeln('</div>');
+
+
+/* 
+document.writeln('<div class="dropdown">');
+document.writeln('<button class="dropbtn" onclick="location.href=\'personal.html\'">personal</button>');
+document.writeln('</div>'); */
 
 //contact
 document.writeln('<div class="dropdown">');
