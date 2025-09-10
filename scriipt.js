@@ -1,14 +1,11 @@
 // Start dropdown
 document.writeln('<div class="dropdown">');
-document.writeln('<button class="dropbtn" onclick="location.href=\'/index.html\'">start</button>');
+document.writeln('<button class="dropbtn" onclick="location.href=\'/index.html\'">START</button>');
 /* document.writeln('<div class="dropdown-content">');
 document.writeln('<a href="https://yahoo.de">yahoo</a>');
 document.writeln('</div>'); */
 document.writeln('</div>');
 
-document.writeln('</div>');
-document.writeln('</div>');*/
-document.writeln('</div>');
 
 // med dropdown
 document.writeln('<div class="dropdown">');
@@ -118,6 +115,10 @@ document.writeln('<button class="dropbtn" onclick="location.href=\'/whoiam.html\
 document.writeln('<a href="personal.html">actual</a>');
 /*document.writeln('<div class="dropdown-content">');
 document.writeln('<a href="https://yahoo.de">yahoo</a>');
+
+document.writeln('</div>');
+document.writeln('</div>');*/
+document.writeln('</div>');
 
 //contact
 document.writeln('<div class="dropdown">');
