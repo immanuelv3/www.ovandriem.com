@@ -54,7 +54,7 @@ document.writeln('</div>'); */
 
 // baking dropdown
 document.writeln('<div class="dropdown">');
-document.writeln('<button class="dropbtn" onclick="location.href=\'/kulinarik/einfuehrung.html\'">Brot backen</button>');
+document.writeln('<button class="dropbtn" onclick="location.href=\'/kulinarik/einfuehrung.html\'">brot backen</button>');
 document.writeln('<div class="dropdown-content">');
 document.writeln('<a href="/kulinarik/brotbacken.html">Do´s & Dont´s</a>');
 document.writeln('<a href="/kulinarik/brotbacku.html">brotbackzubehör</a>');
@@ -67,7 +67,7 @@ document.writeln('</div>');
 // 
 // culinary dropdown
 document.writeln('<div class="dropdown">');
-document.writeln('<button class="dropbtn" onclick="location.href=\'/kulinarik/rezepte.html\'">Culinary</button>');
+document.writeln('<button class="dropbtn" onclick="location.href=\'/kulinarik/rezepte.html\'">culinary</button>');
 document.writeln('</div>');
 
 
