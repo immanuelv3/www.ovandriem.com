@@ -37,9 +37,9 @@ document.writeln('</div>');
 
 // Music dropdown
 document.writeln('<div class="dropdown">');
-document.writeln('<button class="dropbtn" onclick="location.href=\'/music.html\'">music</button>');
+document.writeln('<button class="dropbtn" onclick="location.href=\'/music/musicstart.html\'">music</button>');
 document.writeln('<div class="dropdown-content">');
-document.writeln('<a href="/music/tact.html">musical theory</a>');
+document.writeln('<a href="/music/music-theory.html">musical theory</a>');
 document.writeln('</div>');
 document.writeln('</div>');
 
@@ -88,7 +88,7 @@ document.writeln('</div>');
 
 // log
 document.writeln('<div class="dropdown">');
-document.writeln('<button class="dropbtn" onclick="location.href=\'/log.html\'">notes</button>');
+document.writeln('<button class="dropbtn" onclick="location.href=\'/notes.html\'">notes</button>');
 /* document.writeln('<div class="dropdown-content">');
  document.writeln('<a href="aboutlog.html">about log</a>');
 document.writeln('</div>'); */
@@ -110,7 +110,7 @@ document.writeln('</div>'); */
 
 // About me dropdown
 document.writeln('<div class="dropdown">');
-document.writeln('<button class="dropbtn" onclick="location.href=\'/whoiam.html\'">about me</button>');
+document.writeln('<button class="dropbtn" onclick="location.href=\'/aboutme.html\'">about me</button>');
 /*document.writeln('<div class="dropdown-content">');
 document.writeln('<a href="personal.html">actual</a>');
 /*document.writeln('<div class="dropdown-content">');
