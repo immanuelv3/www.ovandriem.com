@@ -68,3 +68,12 @@ left: 0;
 .dropdown:hover .dropdown-content {display: block;}
 
 .dropdown:hover .dropbtn {background-color: purple;}
+
+@media screen and (max-width:1000px) 
+{ .dropbtn {background-color: #042eaa;max-width:22em;} 
+.topnav {background-color: #042eaa; flex-wrap: wrap; width: 88%}
+.welcome {
+  color: aquamarine;
+   padding-left: 8%;
+  }
+ }

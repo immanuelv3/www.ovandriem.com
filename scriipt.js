@@ -6,6 +6,10 @@ document.writeln('<a href="https://yahoo.de">yahoo</a>');
 document.writeln('</div>'); */
 document.writeln('</div>');
 
+document.writeln('<div> <br>');
+document.writeln('');
+
+document.writeln('</div>');
 
 // med dropdown
 document.writeln('<div class="dropdown">');
