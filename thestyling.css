@@ -73,7 +73,5 @@ left: 0;
 { .dropbtn {background-color: #042eaa;max-width:22em;} 
 .topnav {background-color: #042eaa; flex-wrap: wrap; width: 88%}
 .welcome {
-  color: aquamarine;
-   padding-left: 8%;
   }
  }
