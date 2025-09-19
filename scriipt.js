@@ -41,10 +41,10 @@ document.writeln('</div>');
 
 // Music dropdown
 document.writeln('<div class="dropdown">');
-document.writeln('<button class="dropbtn" onclick="location.href=\'/music/musicstart.html\'">music</button>');
-document.writeln('<div class="dropdown-content">');
+document.writeln('<button class="dropbtn" onclick="location.href=\'/music/music-theory.html\'">music</button>');
+/* document.writeln('<div class="dropdown-content">');
 document.writeln('<a href="/music/music-theory.html">musical theory</a>');
-document.writeln('</div>');
+document.writeln('</div>'); */
 document.writeln('</div>');
 
 /* // sm dropdown
