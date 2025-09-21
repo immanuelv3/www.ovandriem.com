@@ -21,6 +21,7 @@ document.writeln('<a href="/med/sibo-hit.html">hit</a>');
 document.writeln('<a href="/med/stressandcortisol.html">stress</a>');
 document.writeln('<div class="dropdown-content">');
 document.writeln('<a href="/med/hypo.html">hypothyroidism</a>');
+document.writeln('<a href="/med/covid-19.html">My COVID-19</a>');
 document.writeln('<div class="dropdown-content">');
 
 document.writeln('<div class="dropdown-content">');
