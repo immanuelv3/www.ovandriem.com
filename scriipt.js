@@ -16,7 +16,7 @@ document.writeln('<div class="dropdown">');
 document.writeln('<button class="dropbtn" onclick="location.href=\'/med/medicinestart.html\'">medicine</button>');
 document.writeln('<div class="dropdown-content">');
 document.writeln('<a href="/med/sibo.html">sibo</a>');
-document.writeln('<a href="/med/sibo-hit.html">hit</a>');
+document.writeln('<a href="/med/sibo-hit.html">hit-sibo</a>');
 document.writeln('<a href="/med/hit.html">hit-liste</a>');
 document.writeln('<a href="/med/stressandcortisol.html">stress</a>');
 document.writeln('<div class="dropdown-content">');
